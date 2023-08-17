@@ -105,7 +105,7 @@ const Nav = () => {
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div className="flex flex-col justify-center py-16 w-full">
+                                                    <div className="flex flex-col justify-center py-16 w-full text-2xl">
                                                         <ul>
                                                             <li className="mb-12"><Link className="font-medium hover:text-secondary" onClick={closeModal} href="/">Strona główna</Link></li>
                                                             <li className="mb-12"><Link className="font-medium hover:text-secondary" onClick={closeModal} href="/o-nas/">O nas</Link></li>
