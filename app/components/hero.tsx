@@ -15,7 +15,7 @@ const Hero = () => {
                 <div className="z-20 flex flex-col mt-8 text-center text-white lg:text-left lg:mt-0">
                     <h1 className="text-3xl font-bold font-serif">GODZINY OTWARCIA</h1>
                     <p className="text-2xl font-semibold">Wtorek – Piątek: 10-18</p>
-                    <p className="text-2xl font-semibold">Sobota 8-13</p>
+                    <p className="text-2xl font-bold">Sobota 8-13</p>
                     <div className="w-auto lg:hidden mt-4">
                         <div className="inline-block">
                             <Link className="relative group inline-block py-3 px-9 font-semibold text-white hover:text-black bg-secondary border-primary border transition duration-300 overflow-hidden" href="tel:+48(16) 670 45 83">

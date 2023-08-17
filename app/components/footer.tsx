@@ -6,15 +6,15 @@ export default function Footer() {
     return (
 
         <>
-        <div className="flex justify-center pt-8 mx-auto bg-primary">
+            <div className="flex justify-center pt-8 mx-auto bg-primary">
                 <div className="container w-full h-1 mx-8 bg-white"></div>
             </div>
             <div className="bg-primary py-8">
                 <div className="mx-auto px-4 container max-w-7xl flex flex-col md:flex-row items-center justify-between space-y-8 md:space-y-0">
                     <div className="w-full md:w-1/3 text-white md:text-left text-center">
-                            <p className='font-bold'>Kontakt</p>
-                            <p className=''>Grunwaldzka 5, 37-700 Przemyśl</p>
-                            <p className=''>(16) 670 45 83</p>
+                        <p className='font-bold'>Kontakt</p>
+                        <p className=''>Grunwaldzka 5, 37-700 Przemyśl</p>
+                        <p className=''>(16) 670 45 83</p>
                     </div>
                     <div className="w-full md:w-1/3">
                         <Link href="/">
