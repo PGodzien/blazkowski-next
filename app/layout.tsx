@@ -27,7 +27,7 @@ const barlow = localFont({
       weight: '500'
     },
     {
-      path: '../public/fonts/Barlow/Barlow-Semibold.ttf',
+      path: '../public/fonts/Barlow/Barlow-SemiBold.ttf',
       weight: '600'
     },
     {
