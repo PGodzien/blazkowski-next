@@ -28,7 +28,7 @@ const Hero = () => {
                         <div className="inline-block">
                             <Link className="relative group inline-block py-3 px-9 font-semibold text-white hover:text-black bg-secondary border-primary border transition duration-300 overflow-hidden" href="/kontakt">
                                 <div className="absolute top-0 right-full w-full h-full bg-white transform group-hover:translate-x-full group-hover:scale-102 transition duration-500"></div>
-                                <span className="relative">UMÓW SIĘ</span>
+                                <span className="relative">UMÓW SIĘ </span>
                             </Link>
                         </div>
                     </div>
