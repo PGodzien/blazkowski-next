@@ -69,7 +69,9 @@ export default function Footer() {
                             </a>
                         </div>
                     </div>
-
+                </div>
+                <div className="container mx-auto max-w-7xl px-4 mt-8">
+                    <div className="mt-4 text-center text-white">Stworzono przez <a href="https://getpromo.pl/strony-internetowe/" target='blank' className="text-secondary">Strony internetowe Getpromo</a></div>
                 </div>
             </div>
         </>
