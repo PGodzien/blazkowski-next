@@ -15,8 +15,8 @@ module.exports = {
       },
 
       fontFamily: {
-        sans: ["var(--font-lora)"],
-        serif: ["var(--font-lora)"],
+        sans: ["var(--font-barlow)"],
+        serif: ["var(--font-barlow)"],
       },
 
       backgroundImage: {
