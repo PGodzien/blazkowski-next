@@ -41,7 +41,7 @@ const Services = () => {
                             Usługa zawiera profesjonalny dobór fryzury, mycie oraz stylizacje.
                         </p>
                         <h1 className="text-4xl font-bold text-secondary">
-                            70 zł
+                            80 zł
                         </h1>
                     </div>
                     <div className="flex flex-col items-center space-y-6 text-center lg:text-left lg:w-1/3 lg:items-start">
@@ -61,7 +61,7 @@ const Services = () => {
                             Usługa zawiera profesjonalny dobór fryzury, mycie oraz stylizacje.
                         </p>
                         <h1 className="text-4xl font-bold text-secondary">
-                            100 zł
+                            110 zł
                         </h1>
                     </div>
                 </div>
@@ -81,7 +81,7 @@ const Services = () => {
                             Usługa zawiera strzyżenie męskie, trymowanie brody, okład z gorącego ręcznika, konturowanie brzytwą, depilację woskiem włosów z nosa,  profesjonalne kosmetyki oraz masaż twarzy.
                         </p>
                         <h1 className="text-4xl font-bold text-secondary">
-                            125 zł
+                            135 zł
                         </h1>
                     </div>
                     <div className="flex flex-col items-center space-y-6 text-center lg:text-left lg:w-1/3 lg:items-start">
@@ -98,7 +98,7 @@ const Services = () => {
                             Golenie głowy brzytwą
                         </p>
                         <h1 className="text-4xl font-bold text-secondary">
-                            90 zł
+                            100 zł
                         </h1>
                     </div>
                 </div>
@@ -118,7 +118,7 @@ const Services = () => {
                             Usługa zawiera trymowanie brody, okład z gorącego ręcznika, konturowanie brzytwą, profesjonalne kosmetyki oraz masaż twarzy.
                         </p>
                         <h1 className="text-4xl font-bold text-secondary">
-                            55 zł
+                            65 zł
                         </h1>
                     </div>
                     <div className="flex flex-col items-center space-y-6 lg:w-1/3 lg:items-start">
@@ -136,7 +136,7 @@ const Services = () => {
                             Usługa zawiera trymowanie brody, konturowanie maszynką, profesjonalne kosmetyki oraz masaż twarzy.
                         </p>
                         <h1 className="text-4xl font-bold text-secondary">
-                            45 zł
+                            55 zł
                         </h1>
                     </div>
                 </div>
@@ -156,7 +156,7 @@ const Services = () => {
                             Usługa zawiera profesjonalne tuszowanie siwizny za pomocą kosmetyków SYSTEM PROFFESIONAL GRADUAL TONE, mycie oraz stylizacje.
                         </p>
                         <h1 className="text-4xl font-bold text-secondary">
-                            55 zł
+                            65 zł
                         </h1>
                     </div>
                     <div className="flex flex-col items-center space-y-6 text-center lg:w-1/3 lg:text-left lg:items-start">
