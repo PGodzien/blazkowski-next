@@ -1,6 +1,6 @@
 import Image from "next/image";
 import type { Metadata } from "next";
-import slider from "../../public/slider.jpeg";
+import slider from "../../public/oferta.jpg";
 
 export const metadata: Metadata = {
     title: 'Usługi barberskie - Barber Room Przemyśl',

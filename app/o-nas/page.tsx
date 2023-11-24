@@ -1,6 +1,6 @@
 import Image from "next/image";
 import blazkowski from "../../public/damian_blazkowski_barber.jpg";
-import slider from "../../public/slider.jpeg";
+import slider from "../../public/o-nas.jpg";
 import type { Metadata } from 'next'
 
 
